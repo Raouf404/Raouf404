@@ -9,7 +9,7 @@ I'm a passionate Web developer from Bejaia, Algeria.
 - 🖥️ Front-End: HTML, CSS, JavaScript, React, Tailwind CSS
 - 🗄️ Back-End: MySQL
 - 🛠 Tools: Git, Figma, Visual Studio Code
-- 
+  
 ## Connect with Me
-[GitHub Profile](https://github.com/Raouf404) | [LinkedIn]([#](https://www.linkedin.com/in/abderaouf-mahdi-8b68a1291/))
+[GitHub Profile](https://github.com/Raouf404) | [LinkedIn](https://www.linkedin.com/in/abderaouf-mahdi-8b68a1291/)
 
