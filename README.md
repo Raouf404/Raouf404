@@ -6,7 +6,7 @@ I'm a passionate Web developer from Bejaia, Algeria.
 - 📫 How to reach me: **mahdi.abderaouf97@gmail.com**
 
 ## Skills
-- 🖥️ Front-End: HTML, CSS, JavaScript, React, Tailwind CSS
+- 🖥️ Front-End: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 - 🗄️ Back-End: MySQL
 - 🛠 Tools: Git, Figma, Visual Studio Code
   
